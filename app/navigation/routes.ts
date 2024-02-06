@@ -1,7 +1,7 @@
 import Auth from '@/components/screens/auth/Auth'
 import Home from '@/components/screens/home/Home'
 import Settings from '@/components/screens/settings/Settings'
-import Profile from '@/components/Profile/Profile'
+import Profile from '@/components/screens/profile/Profile'
 
 import { IRoute } from './navigation.types'
 import Statistics from '@/components/screens/statistics/Statistics'
